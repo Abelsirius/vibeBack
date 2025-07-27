@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VibeME")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Enable WebSockets")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d23682f4497bb210ba68a9dbcc2e4df49e81f11c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bea0fb9bfefb131d972eec3ad623bbf438d81dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("VibeME")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VibeME")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
